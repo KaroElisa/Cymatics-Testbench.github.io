@@ -1,3 +1,7 @@
+//original texture on this fiddle: https://jsfiddle.net/dj0kgvL7/1/
+//just editing as part of a larger project
+
+
 import * as THREE from './js/three.module.js';
 
 //import { dat.GUI } from './js/dat.gui.module.js';
